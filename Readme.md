@@ -3,4 +3,4 @@
 >Convert hex values to rgb and vice versa.
 
 ##install
-``` $ npm install -g hexrgb```
+``` $ npm install -g hexrgbconverter```
