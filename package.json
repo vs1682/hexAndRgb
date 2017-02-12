@@ -1,0 +1,23 @@
+{
+  "name": "hexrgb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hexAndRgb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hex",
+    "rgb",
+    "hex-to-rgb",
+    "rgb-to-hex"
+  ],
+  "author": "vs1682",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "bin": {
+    "hexrgb": "./hexAndRgb.js"
+  }
+}
