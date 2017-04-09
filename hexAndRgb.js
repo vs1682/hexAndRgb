@@ -24,6 +24,7 @@ function rgbToHex(value){
     let hexValues = [];
     value.split(',').forEach(
         function(num){
+            num = parseInt(num);
             hexValues.push((num.toString(16)));
         }
     );

@@ -1,6 +1,6 @@
 {
   "name": "hexrgbconverter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "simple hex to rgb and vice versa cli converter",
   "main": "hexAndRgb.js",
   "scripts": {
